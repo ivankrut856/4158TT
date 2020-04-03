@@ -1,3 +1,6 @@
+
+## The project was created as a part of test task for JetBrains Internship 2020 (Настраиваемый dashboard для TeamCity)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
